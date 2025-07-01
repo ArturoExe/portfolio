@@ -68,6 +68,7 @@ button {
   box-shadow: -1px 3px 8px 0px rgba(0, 0, 0, 0.44);
   -webkit-box-shadow: -1px 3px 8px 0px rgba(0, 0, 0, 0.44);
   -moz-box-shadow: -1px 3px 8px 0px rgba(0, 0, 0, 0.44);
+  background-color: whitesmoke
 }
 
 .sticky-navbar {
@@ -329,7 +330,7 @@ button {
 }
 
 .projects-grid {
-  display: flex;
+  display: grid;
   flex-direction: row;
   align-items: center;
   gap: var(--space-lg);
@@ -661,7 +662,10 @@ button {
     width: 180px;
     height: 180px;
   }
-
+  .projects-grid {
+    display: flex;
+    gap: var(--space-lg);
+  }
   .project-card {
     width: 45%;
   }
