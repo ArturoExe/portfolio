@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="contact">
+    <div className="contact" id="contact">
       <div className="contact-text-container">
         <h2>Contact Information</h2>
         <p>Stay connected with me for any inquieries or collaborations</p>
@@ -27,8 +27,10 @@ const Contact = () => {
           <input placeholder="TYPE OF PROJECT" />
           <input placeholder="MESSAGE" />
         </form>
+             
       </div>
       <button className="btn-submit">SUBMIT</button>
+ 
     </div>
   );
 };

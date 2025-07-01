@@ -21,13 +21,13 @@ const AboutMe = () => {
       </div>
       <p className="text-description">
         <TypingText
-          text="Hi, I'm Arturo Martinez Jr — a coding sorcerer and Systems Engineering
+          text="HHi, I'm Arturo Martinez Jr — a coding sorcerer and Systems Engineering
         graduate from San Diego Global Knowledge University and the
         Technological Institute of Tijuana. Born on March 26, 2001, in San
         Diego, CA, I infuse my technical skills with a creative touch. Beyond
         the code, you'll find me harmonizing with music, riding waves, and
         lifting more than just weights. Join me on this dynamic journey where
-        tech meets tunes, and waves meet weights."
+        tech meets tunes, and waves meet weights"
         />
       </p>
     </div>

@@ -8,8 +8,7 @@ const Hero = () => {
       <div className="hero-section">
         <div className="left-hero">
           <h1>
-            Hey, I'm Arturo, your coding wizard! Explore my enchanted portfolio
-            and witness the magic of code come to life!
+            Hey, I'm Arturo, your coding wizard! Explore my enchanted portfolio!
           </h1>
         </div>
         <div className="right-hero">

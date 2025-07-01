@@ -669,6 +669,18 @@ button {
   .project-image {
     height: 250px;
   }
+
+  .contact-titles h1{
+    text-align: left;
+    font-size: 6rem;
+    line-height: 5.5rem;
+    
+  }
+
+  .btn-submit{
+    margin-left:90%;
+    
+  }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */

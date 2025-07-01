@@ -16,7 +16,7 @@ export const images = [
     image: app2,
     title: "H.A.I (Hand-sign Artificial Intelligence)",
     description:
-      "Hand-sign Artificial Intelligence (H.A.I) is a game can help individuals learn and practice sign language in a fun and engaging way, while also providing feedback on their performance. The AI technology can track the player's movements and provide real-time feedback, allowing the player to adjust their gestures as needed..",
+      "Hand-sign Artificial Intelligence (H.A.I) is a game can help individuals learn and practice sign language. It uses computer vision to recognize hand signs and provide feedback, making it an interactive and engaging way to learn.",
     link: "https://github.com/ArturoExe/AI-ITT",
   },
   {
@@ -24,7 +24,7 @@ export const images = [
     title: "Mobile TO-DO app",
     description:
       "A TO-DO app using Expo to practice mobile and mockups using an ipad",
-    link: "https://example.com/app3",
+    link: "",
   },
   {
     image: app4,
